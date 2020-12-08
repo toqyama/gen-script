@@ -1,2 +1,2 @@
-# gen_scripts
+# gen-scripts
 general scripts
